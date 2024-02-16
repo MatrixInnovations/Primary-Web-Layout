@@ -39,7 +39,7 @@ body {
 }
 
 .main-nav {
-  color: white
+  color: white;
   display: flex;
   list-style: none;
   font-size: 0.7em;
